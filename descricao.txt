@@ -1,0 +1,1 @@
+Na main.py está o código completo com todas as funções para rodar o algoritmo por completo, na pasta "base" é onde está localizado a base de dados usado para rodar esse algoritmo
